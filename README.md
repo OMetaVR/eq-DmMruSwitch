@@ -1,2 +1,1 @@
-# eq-DmMruSwitch
-Ctrl+Tab between recent discord DMs
+CRTL+TAB system for switching most-recent-user list.
